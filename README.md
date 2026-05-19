@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lethal-ishq/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Lethal Ishq](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lethal-ishq/) |
+| **Get License** | [Secure Licensing Rights for Lethal Ishq](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lethal-ishq/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `97af3dd2fbc72746ce9b25e64dc6f53507a9f0f11280d1dc2c01701b4760a130` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

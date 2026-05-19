@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Lethal Ishq
+
+This log tracks the cryptographic history and versioning for the song **Lethal Ishq** (lethal-ishq).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-19T21:38:53.303605 | `v1` | `97af3dd2fbc72746ce9b25e64dc6f53507a9f0f11280d1dc2c01701b4760a130` | `d0d93641b57bd24be979fc96e8b8c63628f47a04a7dd1eb20c60cfe5bd2f51c6` | `2026-05-19_lethal-ishq-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
