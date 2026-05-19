@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lethal-ishq/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Lethal Ishq](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lethal-ishq/) |
+| **Get License** | [Obtain a Music License for Lethal Ishq](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lethal-ishq/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਨੈਣਾਂ ਤੇਰੀਆਂ 'ਚ ਡੁੱਬਦਾ ਮੈਂ ਜਾਂਦਾ no escape
+> ਸੋਹਣੇ ਜਿਹੇ ਮੁਖੜੇ ਦੀ ਲੱਭਦਾ ਹਾਂ right shape
+> ਠੰਡੀਆਂ ਹਵਾਵਾਂ ਵਿੱਚ ਕਰਦਾ ਹਾਂ feel right
+> ਦਿਲ ਮੇਰਾ ਲੱਭਦਾ ਐ shadow in the light
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
